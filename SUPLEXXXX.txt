@@ -1,0 +1,1 @@
+INSERT INTO Suplex VALUES 'datos cualesquiera'
